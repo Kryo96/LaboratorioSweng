@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unimi.di.sweng.esame.ModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-02-07T18:06:38" hostname="DESKTOP-KHTJKKL" time="0.643">
+  <properties/>
+  <testcase name="addDelay()" classname="it.unimi.di.sweng.esame.ModelTest" time="0.097"/>
+  <testcase name="notifyTest()" classname="it.unimi.di.sweng.esame.ModelTest" time="0.538"/>
+  <testcase name="removeTrain()" classname="it.unimi.di.sweng.esame.ModelTest" time="0.001"/>
+  <testcase name="firstSecondHalfTest()" classname="it.unimi.di.sweng.esame.ModelTest" time="0.001"/>
+  <testcase name="readFileTest()" classname="it.unimi.di.sweng.esame.ModelTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
